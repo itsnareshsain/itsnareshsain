@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [soon available]
+- 👨‍💻 **Website** [soon available]
 
 - 💬 Ask me about **Html, CSS**
 
