@@ -1,4 +1,3 @@
-![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)
 <img align="right" alt="Coding" width="500" src="https://irfantariq.com/images/banner.gif">
 <h1 align="center">Hello, I'm Naresh Sain</h1>
 <h3 align="center">A Passionate FrontEnd Developer | Freelancer | Community Enthusiast</h3>
