@@ -1,12 +1,11 @@
 ![MasterHead](https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif)
-<img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
-
+<img align="right" alt="Coding" width="500" src="https://irfantariq.com/images/banner.gif">
 <h1 align="center">Hello, I'm Naresh Sain</h1>
 <h3 align="center">A Passionate FrontEnd Developer | Freelancer | Community Enthusiast</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [soon available](soon available)
+- 👨‍💻 All of my projects are available at [soon available]
 
 - 💬 Ask me about **Html, CSS**
 
