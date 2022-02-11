@@ -15,10 +15,10 @@
 </br>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://discord.gg/8UbA9qdHeD" target="blank"><img align="center" src="./assets/icons/discord.svg" alt="itsnareshsain" /></a>
-<a href="https://twitter.com/itsnareshsain" target="blank"><img align="center" src="./assets/icons/twitter.svg" alt="itsnareshsain" /></a>
-<a href="https://linkedin.com/in/itsnareshsain" target="blank"><img align="center" src="./assets/icons/linkedin.svg" alt="itsnareshsain" /></a>
-<a href="https://instagram.com/itsnareshsain" target="blank"><img align="center" src="./assets/icons/instagram.svg" alt="itsnareshsain" /></a>
+<a href="https://discord.gg/8UbA9qdHeD" target="blank"><img align="center" src="./assets/icons/discordicon.svg" alt="itsnareshsain" /></a>
+<a href="https://instagram.com/itsnareshsain" target="blank"><img align="center" src="./assets/icons/instagramicon.svg" alt="itsnareshsain" /></a>
+<a href="https://twitter.com/itsnareshsain" target="blank"><img align="center" src="./assets/icons/twittericon.svg" alt="itsnareshsain" /></a>
+<a href="https://linkedin.com/in/itsnareshsain" target="blank"><img align="center" src="./assets/icons/linkedinicon.svg" alt="itsnareshsain" /></a>
 </p>
 
 <h2 align="center">Languages and Tools:</h2>
