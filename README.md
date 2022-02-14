@@ -1,6 +1,6 @@
 ![MaterHead](https://github.com/itsnareshsain/itsnareshsain/blob/main/assets/icons/banner.gif)
 <h1 align="center">Hello, I'm Naresh Sain</h1>
-<h3 align="center">A Passionate FrontEnd Developer | Freelancer | Community Enthusiast</h3>
+<h2 align="center">A Passionate FrontEnd Developer | Freelancer | Community Enthusiast</h2>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -20,6 +20,7 @@
 <a href="https://twitter.com/itsnareshsain" target="blank"><img align="center" src="./assets/icons/twittericon.svg" alt="itsnareshsain" /></a>
 <a href="https://linkedin.com/in/itsnareshsain" target="blank"><img align="center" src="./assets/icons/linkedinicon.svg" alt="itsnareshsain" /></a>
 </p>
+
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
