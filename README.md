@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 **Website** [soon available]
+- 👨‍💻 **Website** https://itsnareshsain.com
 
 - 💬 Ask me about **Html, CSS**
 
