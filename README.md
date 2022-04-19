@@ -8,7 +8,7 @@
 
 - 👨‍💻 **Website** https://itsnareshsain.com
 
-- 💬 Ask me about **Html, CSS**
+- 💬 Ask me about **Html, CSS, Discord**
 
 - ⚡**Curiousity for exploring everything**
 
