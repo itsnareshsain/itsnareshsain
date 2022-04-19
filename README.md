@@ -2,9 +2,9 @@
 <h1 align="center">Hello, I'm Naresh Sain</h1>
 <h2 align="center">A Passionate FrontEnd Developer | Freelancer | Community Enthusiast</h2>
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 🌟 **Professional Discord Server Designer/Developer**
+
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 **Website** https://itsnareshsain.com
 
