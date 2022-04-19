@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
+- 🌟 **Professional Discord Server Designer/Developer**
+
 - 👨‍💻 **Website** https://itsnareshsain.com
 
 - 💬 Ask me about **Html, CSS**
